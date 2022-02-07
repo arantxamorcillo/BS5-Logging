@@ -1,0 +1,4 @@
+2022-02-04 13:45:27.140  WARN 6724 --- [main] com.BS5.Logging.LoggingApplication       : Warn Message!
+2022-02-04 13:45:27.143 ERROR 6724 --- [main] com.BS5.Logging.LoggingApplication       : Error Message!
+2022-02-04 13:46:19.770  WARN 4924 --- [main] com.BS5.Logging.LoggingApplication       : Warn Message!
+2022-02-04 13:46:19.772 ERROR 4924 --- [main] com.BS5.Logging.LoggingApplication       : Error Message!
